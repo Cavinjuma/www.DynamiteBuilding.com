@@ -1,0 +1,11 @@
+
+{
+  "name": "netlify-upload-email",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "busboy": "^1.6.0"
+  }
+}
+
